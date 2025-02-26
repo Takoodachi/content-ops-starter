@@ -8,10 +8,7 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Your Ultimate Money-Saving Companion!
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: "SmartSavr is a one-stop platform designed to help you make smarter financial decisions, cut unnecessary expenses, and grow your savings effortlessly. Whether you're looking for budgeting tips, discount hacks, or investment insights, SmartSavr equips you with the tools and knowledge to maximize your money. Start saving smarter today! \U0001F4B0\U0001F680\n"
     actions:
       - label: Get started
         altText: ''
