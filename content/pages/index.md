@@ -7,7 +7,7 @@ sections:
       text: SmartSavr!
       color: text-dark
       type: TitleBlock
-    subtitle: Where you can spend smarter and save better!
+    subtitle: Your ultimate
     text: >
       A Netlify Create website is a git repo that you own. Every code commit is
       instantly reflected in the visual editor and since every visual edit is a
