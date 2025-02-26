@@ -685,7 +685,7 @@ sections:
         textAlign: center
     type: FeaturedItemsSection
   - title:
-      text: For if there is anything wrong
+      text: For if there is anything wrong...
       color: text-dark
       type: TitleBlock
     subtitle: Section with a form subtitle
