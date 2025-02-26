@@ -689,11 +689,10 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Give us feedback on the website!
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      This is a website still in it's early development stage. Please give us an
+      email if you have the time and tell us your feedbacks to help us improve
+      the website!
     media:
       fields:
         - name: name
