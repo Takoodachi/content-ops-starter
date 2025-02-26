@@ -8,7 +8,7 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Your Ultimate Money-Saving Companion!
-    text: "SmartSavr is a one-stop platform designed to help you make smarter financial decisions, cut unnecessary expenses, and grow your savings effortlessly. Whether you're looking for budgeting tips, discount hacks, or investment insights, SmartSavr equips you with the tools and knowledge to maximize your money. Start saving smarter today! \U0001F4B0\U0001F680\n"
+    text: "SmartSavr is a one-stop platform designed to help you make smarter financial decisions, find incredible deals on the Internet, and satisfy your budget effortlessly. Whatever you are looking for, we can help you find the cheapest price you can get it for from reliable sellers! SmartSavr is equipped with the tools to make finding great deals with no effort to maximize your money. Start saving smarter today! \U0001F4B0\U0001F680\n"
     actions:
       - label: Get started
         altText: ''
